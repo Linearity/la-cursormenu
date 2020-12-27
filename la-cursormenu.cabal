@@ -20,7 +20,6 @@ library
                        Lightarrow.CursorMenu.ListMenu
                        Lightarrow.CursorMenu.MenuSign
   build-depends:       base >= 4.7 && < 5,
-                       binary,
                        bearriver,
                        lightarrow,
                        linear,

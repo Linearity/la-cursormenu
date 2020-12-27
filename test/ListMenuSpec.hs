@@ -1,7 +1,6 @@
 module Main where
 
 import Control.Monad.Identity
-import Data.Binary
 import FRP.BearRiver hiding (first)
 import Lightarrow
 import Optics
